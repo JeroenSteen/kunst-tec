@@ -1,0 +1,174 @@
+{
+   "3d" : {
+      "batik" : null,
+      "beeldhouwen" : null,
+      "food art" : null,
+      "glas" : null,
+      "installatie" : null,
+      "landscape art" : null,
+      "modelleren" : null,
+      "mozaiek" : null,
+      "paper craft" : null
+   },
+   "body" : {
+      "body painted" : null,
+      "dans" : null,
+      "mode" : null,
+      "toneel" : null
+   },
+   "grafisch" : {
+      "diepdruk" : {
+         "aquatint" : {
+            "ingekleurde aquatint" : null,
+            "kleuren aquatint" : null
+         },
+         "droge naald" : null,
+         "ets" : {
+            "kleuren ets" : null,
+            "lijnets" : null
+         },
+         "gravure" : {
+            "helio gravure" : null,
+            "ijzer gravure" : null,
+            "koper gravure" : null,
+            "staal gravure" : null
+         },
+         "mezzo tint" : null,
+         "suiker aquatint" : null,
+         "vernis mou" : null
+      },
+      "hoogdruk" : {
+         "boardsnede" : null,
+         "gravure" : {
+            "hout gravure" : null,
+            "ingekleurde gravure" : null,
+            "kleuren gravure" : null,
+            "koper gravure" : null
+         },
+         "houtsnede" : null,
+         "ingekleurde linosnede" : null,
+         "kleuren houtsnede" : null,
+         "kleuren linosnede" : null,
+         "linoleumsnede" : null,
+         "preegdruk" : null
+      },
+      "houtdruk" : {
+         "branden/pyrografie" : null,
+         "hout gravure/hoogdruk" : null
+      },
+      "print" : {
+         "giclee print" : null,
+         "piezo print/inkjet" : null
+      },
+      "tegendruk" : {
+         "monotype prints/stempel afdruk" : null
+      },
+      "vlakdruk/zeefdruk" : {
+         "zeefdruk" : null
+      }
+   },
+   "installatie" : {
+      "assemblage" : null,
+      "interieur" : {
+         "bark painting" : null
+      },
+      "kinetica" : null,
+      "multiples" : null,
+      "object trouve" : null,
+      "patchwork" : null,
+      "ready made" : null
+   },
+   "media" : {
+      "audiografie" : null,
+      "fotografie" : null,
+      "videografie" : null,
+      "web" : null
+   },
+   "mixed" : {
+      "collage" : {
+         "papier collé" : null
+      },
+      "massa schilderij" : {
+         "sand painting" : {
+            "marmotinto" : null
+         }
+      }
+   },
+   "schilderen" : {
+      "acrylverf" : null,
+      "airbrush" : null,
+      "aquarel/waterverf" : null,
+      "encaustic/bijenwas" : null,
+      "fresco" : {
+         "frescosecco" : null,
+         "gambier parry process" : null,
+         "intonaco\r" : null
+      },
+      "gouache/plakkaatverf" : null,
+      "lacquer" : {
+         "maki-e" : null
+      },
+      "olieverf" : {
+         "alkyd" : null,
+         "gepatineerd" : null,
+         "h20-olieverf" : null,
+         "oilbars" : null,
+         "traditioneel" : null
+      },
+      "schminkverf" : null,
+      "spuitverf" : null,
+      "tempera" : {
+         "eigeel/ei tempera" : {
+            "mischtechnik" : null
+         },
+         "eiwit tempera" : null,
+         "kaasstof/caseïne tempera" : null
+      },
+      "textielverf" : null,
+      "wassen" : {
+         "verdunde oost-indische inkt" : null
+      }
+   },
+   "taal/hypergrafie" : {
+      "cabaret" : null,
+      "geschreven" : null,
+      "mail art" : null,
+      "spoken word" : null,
+      "stand up" : null,
+      "theater" : null
+   },
+   "tekenen" : {
+      "inkt" : {
+         "acryl inkt" : null,
+         "chinese inkt" : null,
+         "ecoline" : null,
+         "goud inkt" : null,
+         "kogelpen inkt" : null,
+         "oost-indische inkt" : null,
+         "schrijf en tekeninkt gekleurd" : null,
+         "schrijf inkt" : null,
+         "sepia" : null,
+         "zilver inkt" : null
+      },
+      "marker/stift" : null,
+      "pastel" : {
+         "aquarel krijt" : null,
+         "hard pastel/conte" : null,
+         "olie pastel" : null,
+         "pastelkrijt/carres" : null,
+         "soft pastel" : null
+      },
+      "potlood" : {
+         "aquarel potlood" : null,
+         "glas potlood" : null,
+         "grafiet potlood" : null,
+         "houtskool potlood" : null,
+         "kleur potlood" : null,
+         "kopier potlood" : null,
+         "pastel potlood" : null,
+         "schets potlood" : null,
+         "vulpotlood" : null
+      },
+      "tekenpen" : null
+   }
+}

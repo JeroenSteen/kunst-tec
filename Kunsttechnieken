@@ -1,14 +1,55 @@
 {
    "3d" : {
       "batik" : null,
-      "beeldhouwen" : null,
-      "food art" : null,
-      "glas" : null,
+      "beeldhouwen" : {
+         "dompelen" : {
+            "natuurrubber/latex" : null
+         },
+         "extruderen" : null,
+         "fusoria/gietkunst" : {
+            "cire perdue" : null,
+            "ciseleren" : null,
+            "zandgieten" : null
+         },
+         "impregneren" : null,
+         "objekt functioneel" : null,
+         "objekt trouve" : null,
+         "persen" : null,
+         "plastiek" : null,
+         "relief" : null,
+         "schuimen" : null,
+         "sculptuur/sculptura" : {
+            "bozetto" : null,
+            "modello" : null,
+            "polychrome" : null
+         },
+         "spuitgieten" : {
+            "isopreenrubber" : null
+         },
+         "statuette" : null,
+         "vacuümvormen" : null
+      },
+      "food art" : {
+         "arfé/koffievlekken" : null
+      },
+      "glas" : {
+         "geblazen glas" : null,
+         "gebrand glas" : null,
+         "glas in lood" : null
+      },
       "installatie" : null,
       "landscape art" : null,
-      "modelleren" : null,
+      "modelleren" : {
+         "gips" : null,
+         "plasticine" : null,
+         "polyester/giethars" : null,
+         "textielverharder" : null,
+         "wireform" : null
+      },
       "mozaiek" : null,
-      "paper craft" : null
+      "paper craft" : {
+         "origami" : null
+      }
    },
    "body" : {
       "body painted" : null,
@@ -17,15 +58,26 @@
       "toneel" : null
    },
    "grafisch" : {
+      "boekbinden" : {
+         "bandzetten" : null,
+         "cahiersteek" : null,
+         "japanse binding" : null,
+         "lumbeck" : null,
+         "nieten" : null
+      },
       "diepdruk" : {
          "aquatint" : {
             "ingekleurde aquatint" : null,
             "kleuren aquatint" : null
          },
+         "collagraph" : null,
+         "crayonets" : null,
+         "crayongravure" : null,
          "droge naald" : null,
          "ets" : {
             "kleuren ets" : null,
-            "lijnets" : null
+            "lijnets" : null,
+            "staalets" : null
          },
          "gravure" : {
             "helio gravure" : null,
@@ -33,24 +85,46 @@
             "koper gravure" : null,
             "staal gravure" : null
          },
+         "lijnets" : null,
          "mezzo tint" : null,
+         "polymeerdruk" : null,
+         "staaletsen" : null,
          "suiker aquatint" : null,
-         "vernis mou" : null
+         "suikerwater" : null,
+         "vernis mou" : null,
+         "zachtewas" : null
+      },
+      "digitaal" : {
+         "inktjetprint" : null,
+         "kopieermachine" : null,
+         "laserprint" : null,
+         "matrixprint" : null,
+         "penplotter" : null
+      },
+      "doordruk" : {
+         "sjablonen" : null,
+         "stencildruk/risograph" : null,
+         "zeefdruk" : null
       },
       "hoogdruk" : {
          "boardsnede" : null,
+         "fotoxylografie" : null,
          "gravure" : {
             "hout gravure" : null,
             "ingekleurde gravure" : null,
             "kleuren gravure" : null,
             "koper gravure" : null
          },
-         "houtsnede" : null,
+         "houtgravure" : null,
+         "houtsnede linosnede" : null,
          "ingekleurde linosnede" : null,
          "kleuren houtsnede" : null,
          "kleuren linosnede" : null,
+         "letterpress/losse letters" : null,
          "linoleumsnede" : null,
-         "preegdruk" : null
+         "materiaaldruk" : null,
+         "preegdruk" : null,
+         "stempel" : null
       },
       "houtdruk" : {
          "branden/pyrografie" : null,
@@ -58,12 +132,18 @@
       },
       "print" : {
          "giclee print" : null,
+         "monoprint" : null,
          "piezo print/inkjet" : null
       },
       "tegendruk" : {
          "monotype prints/stempel afdruk" : null
       },
-      "vlakdruk/zeefdruk" : {
+      "vlakdruk" : {
+         "aluminiumfolie/cola lithografie" : null,
+         "aluminiumplaat/lithografie" : null,
+         "lithografie" : null,
+         "offset-lithografie" : null,
+         "steendruk" : null,
          "zeefdruk" : null
       }
    },
@@ -79,10 +159,120 @@
       "ready made" : null
    },
    "media" : {
-      "audiografie" : null,
-      "fotografie" : null,
-      "videografie" : null,
-      "web" : null
+      "audiografie" : {
+         "dj" : null,
+         "instrumentaal" : null,
+         "muziek" : null,
+         "zang" : null
+      },
+      "fotografie" : {
+         "ambrotypie" : null,
+         "autochroomplaat" : null,
+         "broomolie druk" : null,
+         "calotypie" : null,
+         "chemografie" : null,
+         "cibachrome" : null,
+         "cyanotopie" : null,
+         "daguerreotypie" : null,
+         "developing out papers" : null,
+         "droge plaat" : null,
+         "dye transfer" : null,
+         "ferrotypie" : null,
+         "foto montage" : null,
+         "gomdruk" : null,
+         "image transfer" : null,
+         "kooldruk" : null,
+         "natte collodium" : null,
+         "platinadruk" : {
+            "palladiumdruk" : null
+         },
+         "polaroid" : null,
+         "printing out papers/p.o.p./voluitdrukkend zilverchloride gelatine" : null,
+         "zilverdruk" : {
+            "daglichtcollodiumzilverdruk/dcz" : null,
+            "daglichtgelatinezilverdruk/dgz" : null
+         },
+         "zoutdruk" : null
+      },
+      "hypermedia" : {
+         "web" : {
+            "ajax" : null,
+            "asp" : null,
+            "cgi" : null,
+            "css" : null,
+            "flash/actionscript" : null,
+            "html" : null,
+            "java" : null,
+            "javascript" : null,
+            "jquery" : null,
+            "json" : null,
+            "php" : null,
+            "sql" : null,
+            "ssi" : null,
+            "xml" : null
+         }
+      },
+      "software" : null,
+      "videografie" : {
+         "apparatuur" : {
+            "animatronic" : null,
+            "camerakraan" : null,
+            "cinématographe" : null,
+            "fenakistiscoop" : null,
+            "filmcamera" : null,
+            "filmprojector" : null,
+            "kinetoscoop" : null,
+            "praxinoscoop" : null,
+            "steadicam\r" : null
+         },
+         "camera" : {
+            "close-up" : null,
+            "dutch angle" : null,
+            "freeze frame" : null,
+            "kikkerperspectief" : null,
+            "tracking shot" : null,
+            "trunk shot" : null,
+            "vertigo shot" : null,
+            "vogelperspectief" : null
+         },
+         "geluid" : {
+            "nasynchronisatie" : null,
+            "voice-over" : null,
+            "wilhelmschreeuw" : null
+         },
+         "montage/overgang" : {
+            "3d-computergraphics modulatie" : null,
+            "cross cutting" : null,
+            "cut of schnitt" : null,
+            "dissolve" : null,
+            "découpage" : null,
+            "fading" : {
+               "fade-in" : null,
+               "fade-out" : null
+            },
+            "flashback" : null,
+            "letterbox" : null,
+            "long take" : null,
+            "meervoudige belichting" : null,
+            "motion control" : null,
+            "pillarbox" : null,
+            "playback" : null,
+            "split screen" : null,
+            "split-screen" : null,
+            "stop motion" : null,
+            "stop-substitutie" : null,
+            "wipe" : null
+         },
+         "nachtopname" : null,
+         "speciale effecten" : {
+            "bullet-time" : null,
+            "chroma key/blue-screening/green-screening" : null,
+            "depth of field" : null,
+            "digitale animatie" : null,
+            "stereoscopie" : null,
+            "stop-motion" : null
+         }
+      }
    },
    "mixed" : {
       "collage" : {
@@ -94,15 +284,26 @@
          }
       }
    },
+   "overige" : {
+      "caborundumdruk" : null,
+      "papierscheppen" : null,
+      "polyesterplaat lithografie" : null,
+      "typemachine" : null
+   },
    "schilderen" : {
       "acrylverf" : null,
       "airbrush" : null,
       "aquarel/waterverf" : null,
       "encaustic/bijenwas" : null,
-      "fresco" : {
+      "fresco/affresco" : {
+         "a (buon) fresco" : null,
+         "a secco" : null,
+         "carton" : null,
          "frescosecco" : null,
          "gambier parry process" : null,
-         "intonaco\r" : null
+         "intonaco\r" : null,
+         "pouncing/spolvero" : null,
+         "strappo" : null
       },
       "gouache/plakkaatverf" : null,
       "lacquer" : {
@@ -112,8 +313,10 @@
          "alkyd" : null,
          "gepatineerd" : null,
          "h20-olieverf" : null,
+         "impasto/pasteus" : null,
          "oilbars" : null,
-         "traditioneel" : null
+         "traditioneel" : null,
+         "tüchlein" : null
       },
       "schminkverf" : null,
       "spuitverf" : null,
@@ -122,7 +325,14 @@
             "mischtechnik" : null
          },
          "eiwit tempera" : null,
-         "kaasstof/caseïne tempera" : null
+         "kaasstof/caseïne tempera" : null,
+         "ponsen" : null,
+         "sgraffito/krabben" : null,
+         "vergulden" : {
+            "olievergulding/mordantvergulding" : null,
+            "poedervergulding/schelpgoudvergulding" : null,
+            "polimentvergulding/watervergulding" : null
+         }
       },
       "textielverf" : null,
       "wassen" : {
@@ -131,7 +341,10 @@
    },
    "taal/hypergrafie" : {
       "cabaret" : null,
-      "geschreven" : null,
+      "handschrift/hs/manuscript/ms" : {
+         "argyrografie/zilver schrijven" : null,
+         "chrysografie/goud schrijven" : null
+      },
       "mail art" : null,
       "spoken word" : null,
       "stand up" : null,
